@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--圆点刷新进度-->
+    <declare-styleable name="CircleProgress">
+        <attr name="numOfCircles" format="integer"/>
+        <attr name="maxRadius" format="dimension"/>
+        <attr name="minRadius" format="dimension"/>
+        <attr name="rotateSpeedInMillis" format="integer"/>
+        <attr name="isClockwise" format="boolean"/>
+        <attr name="circleColor" format="color"/>
+    </declare-styleable>
+
+</resources>

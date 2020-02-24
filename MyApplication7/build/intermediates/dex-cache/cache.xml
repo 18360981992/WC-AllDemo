@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jun\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="G:\Android Demo\MyApplication7\最新的二维码\build\intermediates\pre-dexed\debug\core-3.3.0_abccf5018f1c9934754886e7ad4f7828d807bb66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Demo\MyApplication7\libzxing\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="42940c1a64b71dbf8735a71bc772002b41898258">
+        <dex dex="G:\Android Demo\MyApplication7\最新的二维码\build\intermediates\pre-dexed\debug\classes_355c943508789b0681c935e640966fa94d5a0186.jar" />
+    </item>
+
+</items>

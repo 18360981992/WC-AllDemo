@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/listview嵌套gridview布局demo" />
+            <option value="$PROJECT_DIR$/okgo" />
+            <option value="$PROJECT_DIR$/okgo的使用demo" />
+            <option value="$PROJECT_DIR$/retrofit+mvpdemo" />
+            <option value="$PROJECT_DIR$/仿支付宝支付密码+键盘demo" />
+            <option value="$PROJECT_DIR$/仿支付宝轮播指示器demo" />
+            <option value="$PROJECT_DIR$/仿淘宝首页之滑动条demo" />
+            <option value="$PROJECT_DIR$/保持scoket的tcp长链接" />
+            <option value="$PROJECT_DIR$/动画上下移动隐藏与显示demo" />
+            <option value="$PROJECT_DIR$/可更改刷新头的下拉刷新demo" />
+            <option value="$PROJECT_DIR$/微信支付demo" />
+            <option value="$PROJECT_DIR$/指纹识别demo" />
+            <option value="$PROJECT_DIR$/练习tablayout" />
+            <option value="$PROJECT_DIR$/自写日历demo" />
+            <option value="$PROJECT_DIR$/自定义圆形进度有值的demo" />
+            <option value="$PROJECT_DIR$/自定义状态切换demo" />
+            <option value="$PROJECT_DIR$/自定义请求加载进度框demo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="testRunner" value="PLATFORM" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#aa000000"
+    tools:context="com.ifeng_tech.spotmall.myapplication1.Main2Activity">
+
+    <com.ifeng_tech.spotmall.myapplication1.PhotoViewPager
+        android:id="@+id/view_pager_photo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        ></com.ifeng_tech.spotmall.myapplication1.PhotoViewPager>
+    <TextView
+        android:id="@+id/tv_image_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="5/10"
+        android:layout_centerHorizontal="true"
+        android:textColor="#fff"
+        />
+
+    <TextView
+        android:id="@+id/tv_save_image_photo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="保存"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="10dp"
+        android:textColor="#fff"
+        />
+
+</RelativeLayout>

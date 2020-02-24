@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/MPChartLib" />
+            <option value="$PROJECT_DIR$/ShortcutBadger" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/libzxing" />
+            <option value="$PROJECT_DIR$/myweelview" />
+            <option value="$PROJECT_DIR$/rsvlib" />
+            <option value="$PROJECT_DIR$/weelview晋级" />
+            <option value="$PROJECT_DIR$/下拉刷新+悬浮xuanf" />
+            <option value="$PROJECT_DIR$/二维码进阶zxing" />
+            <option value="$PROJECT_DIR$/仿支付宝账单" />
+            <option value="$PROJECT_DIR$/再次练习weelview" />
+            <option value="$PROJECT_DIR$/加载监听gif" />
+            <option value="$PROJECT_DIR$/又是角标" />
+            <option value="$PROJECT_DIR$/友盟分享share" />
+            <option value="$PROJECT_DIR$/友盟分享学习share" />
+            <option value="$PROJECT_DIR$/文字在外面的饼状图bingzhuangtu" />
+            <option value="$PROJECT_DIR$/滑动跳转" />
+            <option value="$PROJECT_DIR$/百分比tu" />
+            <option value="$PROJECT_DIR$/练习weelview" />
+            <option value="$PROJECT_DIR$/练习复制到剪切板fuzhi" />
+            <option value="$PROJECT_DIR$/角标进级" />
+            <option value="$PROJECT_DIR$/适配webview" />
+            <option value="$PROJECT_DIR$/集成h5" />
+            <option value="$PROJECT_DIR$/饼状图mpandroidchart" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

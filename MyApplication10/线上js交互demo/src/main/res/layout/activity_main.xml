@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/fu"
+    tools:context="com.ifeng.jsdemo.MainActivity">
+
+    <ProgressBar
+        android:visibility="invisible"
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+    <com.hjhrq1991.library.tbs.TbsBridgeWebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        ></com.hjhrq1991.library.tbs.TbsBridgeWebView>
+    <!--<WebView-->
+        <!--android:id="@+id/webView"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"></WebView>-->
+
+    <!--Log.i("jba","cshare_Friends==ontent===扫描件");
+            View fu = findViewById(R.id.fu);
+            View zi = View.inflate(getApplicationContext(), R.layout.zibuju, null);
+            po = new PopupWindow(zi, ViewGroup.LayoutParams.MATCH_PARENT,ViewGroup.LayoutParams.WRAP_CONTENT,true);
+            po.setBackgroundDrawable(new BitmapDrawable());
+            po.setOutsideTouchable(true);
+            po.showAtLocation(fu, Gravity.CENTER, 0, 0);
+
+            zi.setOnClickListener(new View.OnClickListener() {
+
+                @Override
+                public void onClick(View v) {
+                    // TODO Auto-generated method stub
+                    po.dismiss();
+                }
+            });-->
+</LinearLayout>

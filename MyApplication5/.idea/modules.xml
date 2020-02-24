@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/09_alipay/09_alipay.iml" filepath="$PROJECT_DIR$/09_alipay/09_alipay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication5.iml" filepath="$PROJECT_DIR$/MyApplication5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app1/app1.iml" filepath="$PROJECT_DIR$/app1/app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2/app2.iml" filepath="$PROJECT_DIR$/app2/app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/badger/badger.iml" filepath="$PROJECT_DIR$/badger/badger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calendarview/calendarview.iml" filepath="$PROJECT_DIR$/calendarview/calendarview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/日历/日历.iml" filepath="$PROJECT_DIR$/日历/日历.iml" />
+      <module fileurl="file://$PROJECT_DIR$/消息推送/消息推送.iml" filepath="$PROJECT_DIR$/消息推送/消息推送.iml" />
+    </modules>
+  </component>
+</project>

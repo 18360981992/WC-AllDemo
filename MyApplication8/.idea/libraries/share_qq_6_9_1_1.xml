@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="share-qq-6.9.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/3d0487413ed63e2dff94c33945fa7edaf60228c7/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/3d0487413ed63e2dff94c33945fa7edaf60228c7/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/3d0487413ed63e2dff94c33945fa7edaf60228c7/output/jars/libs/open_sdk_r5990_lite.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.sdk/share-qq/6.9.1.1/fdcea7db3cff238ea101d8790d581fe96b8c872/share-qq-6.9.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

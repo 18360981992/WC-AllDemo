@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MPChartLib/MPChartLib.iml" filepath="$PROJECT_DIR$/MPChartLib/MPChartLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication8.iml" filepath="$PROJECT_DIR$/MyApplication8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShortcutBadger/ShortcutBadger.iml" filepath="$PROJECT_DIR$/ShortcutBadger/ShortcutBadger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libzxing/libzxing.iml" filepath="$PROJECT_DIR$/libzxing/libzxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myweelview/myweelview.iml" filepath="$PROJECT_DIR$/myweelview/myweelview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rsvlib/rsvlib.iml" filepath="$PROJECT_DIR$/rsvlib/rsvlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weelview晋级/weelview晋级.iml" filepath="$PROJECT_DIR$/weelview晋级/weelview晋级.iml" />
+      <module fileurl="file://$PROJECT_DIR$/下拉刷新+悬浮xuanf/下拉刷新+悬浮xuanf.iml" filepath="$PROJECT_DIR$/下拉刷新+悬浮xuanf/下拉刷新+悬浮xuanf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/二维码进阶zxing/二维码进阶zxing.iml" filepath="$PROJECT_DIR$/二维码进阶zxing/二维码进阶zxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/仿支付宝账单/仿支付宝账单.iml" filepath="$PROJECT_DIR$/仿支付宝账单/仿支付宝账单.iml" />
+      <module fileurl="file://$PROJECT_DIR$/再次练习weelview/再次练习weelview.iml" filepath="$PROJECT_DIR$/再次练习weelview/再次练习weelview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/加载监听gif/加载监听gif.iml" filepath="$PROJECT_DIR$/加载监听gif/加载监听gif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/又是角标/又是角标.iml" filepath="$PROJECT_DIR$/又是角标/又是角标.iml" />
+      <module fileurl="file://$PROJECT_DIR$/友盟分享share/友盟分享share.iml" filepath="$PROJECT_DIR$/友盟分享share/友盟分享share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/友盟分享学习share/友盟分享学习share.iml" filepath="$PROJECT_DIR$/友盟分享学习share/友盟分享学习share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/文字在外面的饼状图bingzhuangtu/文字在外面的饼状图bingzhuangtu.iml" filepath="$PROJECT_DIR$/文字在外面的饼状图bingzhuangtu/文字在外面的饼状图bingzhuangtu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/滑动跳转/滑动跳转.iml" filepath="$PROJECT_DIR$/滑动跳转/滑动跳转.iml" />
+      <module fileurl="file://$PROJECT_DIR$/百分比tu/百分比tu.iml" filepath="$PROJECT_DIR$/百分比tu/百分比tu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/练习weelview/练习weelview.iml" filepath="$PROJECT_DIR$/练习weelview/练习weelview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/练习复制到剪切板fuzhi/练习复制到剪切板fuzhi.iml" filepath="$PROJECT_DIR$/练习复制到剪切板fuzhi/练习复制到剪切板fuzhi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/角标进级/角标进级.iml" filepath="$PROJECT_DIR$/角标进级/角标进级.iml" />
+      <module fileurl="file://$PROJECT_DIR$/适配webview/适配webview.iml" filepath="$PROJECT_DIR$/适配webview/适配webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/集成h5/集成h5.iml" filepath="$PROJECT_DIR$/集成h5/集成h5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/饼状图mpandroidchart/饼状图mpandroidchart.iml" filepath="$PROJECT_DIR$/饼状图mpandroidchart/饼状图mpandroidchart.iml" />
+    </modules>
+  </component>
+</project>

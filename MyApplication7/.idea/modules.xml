@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication7.iml" filepath="$PROJECT_DIR$/MyApplication7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libzxing/libzxing.iml" filepath="$PROJECT_DIR$/libzxing/libzxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最新的二维码/最新的二维码.iml" filepath="$PROJECT_DIR$/最新的二维码/最新的二维码.iml" />
+      <module fileurl="file://$PROJECT_DIR$/权限适配/权限适配.iml" filepath="$PROJECT_DIR$/权限适配/权限适配.iml" />
+    </modules>
+  </component>
+</project>

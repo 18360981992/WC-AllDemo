@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dabao.demo.MainActivity"
+    android:orientation="vertical"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="@drawable/band1"/>
+
+
+            <com.dabao.demo.MyHorizontalScrollView
+                android:id="@+id/myHorizontalScrollView"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:fillViewport="true"
+                android:scrollbars="none"
+                >
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    >
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+                        <!--这个控件的存在只为了用来复现item的宽度 从而算出整个gridview的宽-->
+                        <LinearLayout
+                            android:id="@+id/layout"
+                            android:layout_width="100dp"
+                            android:layout_height="1dp"
+                            android:orientation="vertical"
+                            ></LinearLayout>
+                        <com.dabao.demo.MyGridView
+                            android:id="@+id/gv"
+                            android:layout_width="wrap_content"
+                            android:layout_height="200dp"
+                            android:scrollbars="none"
+                            ></com.dabao.demo.MyGridView>
+                    </RelativeLayout>
+
+
+                </LinearLayout>
+            </com.dabao.demo.MyHorizontalScrollView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal">
+                <com.dabao.demo.KaiGuan
+                    android:id="@+id/kg"
+                    android:layout_width="100dp"
+                    android:layout_height="5dp"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

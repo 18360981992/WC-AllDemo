@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication10.iml" filepath="$PROJECT_DIR$/MyApplication10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androi自带检索/androi自带检索.iml" filepath="$PROJECT_DIR$/androi自带检索/androi自带检索.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/下拉刷新demo/下拉刷新demo.iml" filepath="$PROJECT_DIR$/下拉刷新demo/下拉刷新demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/仿qq左滑demo/仿qq左滑demo.iml" filepath="$PROJECT_DIR$/仿qq左滑demo/仿qq左滑demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/仿qq左滑升级demo/仿qq左滑升级demo.iml" filepath="$PROJECT_DIR$/仿qq左滑升级demo/仿qq左滑升级demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/线上js交互demo/线上js交互demo.iml" filepath="$PROJECT_DIR$/线上js交互demo/线上js交互demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/通讯录demo/通讯录demo.iml" filepath="$PROJECT_DIR$/通讯录demo/通讯录demo.iml" />
+    </modules>
+  </component>
+</project>

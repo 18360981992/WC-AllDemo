@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ifeng_tech.spotmall.weelview.MainActivity">
+
+    <Button
+        android:id="@+id/tv_date"
+        style="@style/btn_bg"
+        android:layout_marginTop="10dp"
+        android:text="弹出日期"/>
+
+    <com.ifeng_tech.spotmall.weelview.widget.WheelView
+        android:id="@+id/year"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dip"
+        android:layout_marginLeft="5dip"
+        android:layout_marginTop="10dip"
+        android:layout_weight="0.8"/>
+
+    <com.ifeng_tech.spotmall.weelview.widget.WheelView
+        android:id="@+id/month"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dip"
+        android:layout_marginTop="10dip"
+        android:layout_weight="1"/>
+
+    <com.ifeng_tech.spotmall.weelview.widget.WheelView
+        android:id="@+id/day"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dip"
+        android:layout_marginRight="5dip"
+        android:layout_marginTop="10dip"
+        android:layout_weight="1"/>
+
+</LinearLayout>

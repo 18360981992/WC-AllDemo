@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="tbsjsbridge-1.0.7">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/badffa4c264f8215c22d43d90ab244f2af665365/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/badffa4c264f8215c22d43d90ab244f2af665365/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/badffa4c264f8215c22d43d90ab244f2af665365/output/jars/libs/tbs_sdk_thirdapp_v2.2.0.1055_36542_sharewithoutdownload_withoutGame_obfs_20160816_120907.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hjhrq1991.library.tbs/tbsjsbridge/1.0.7/f1b958ca0b0323c557b8ce619eec758b500ae9e/tbsjsbridge-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication1.iml" filepath="$PROJECT_DIR$/MyApplication1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calendarview/calendarview.iml" filepath="$PROJECT_DIR$/calendarview/calendarview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/微信/微信.iml" filepath="$PROJECT_DIR$/微信/微信.iml" />
+      <module fileurl="file://$PROJECT_DIR$/支付宝/支付宝.iml" filepath="$PROJECT_DIR$/支付宝/支付宝.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最简单的日历/最简单的日历.iml" filepath="$PROJECT_DIR$/最简单的日历/最简单的日历.iml" />
+      <module fileurl="file://$PROJECT_DIR$/极光推送/极光推送.iml" filepath="$PROJECT_DIR$/极光推送/极光推送.iml" />
+      <module fileurl="file://$PROJECT_DIR$/自定义日历/自定义日历.iml" filepath="$PROJECT_DIR$/自定义日历/自定义日历.iml" />
+      <module fileurl="file://$PROJECT_DIR$/还是日历/还是日历.iml" filepath="$PROJECT_DIR$/还是日历/还是日历.iml" />
+    </modules>
+  </component>
+</project>

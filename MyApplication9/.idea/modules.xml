@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication9.iml" filepath="$PROJECT_DIR$/MyApplication9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/什么鬼ss/什么鬼ss.iml" filepath="$PROJECT_DIR$/什么鬼ss/什么鬼ss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/桌面角标jiaobiao/桌面角标jiaobiao.iml" filepath="$PROJECT_DIR$/桌面角标jiaobiao/桌面角标jiaobiao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/测试吊起app/测试吊起app.iml" filepath="$PROJECT_DIR$/测试吊起app/测试吊起app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/自定义图片梯形tixing/自定义图片梯形tixing.iml" filepath="$PROJECT_DIR$/自定义图片梯形tixing/自定义图片梯形tixing.iml" />
+    </modules>
+  </component>
+</project>

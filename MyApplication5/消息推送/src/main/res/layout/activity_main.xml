@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.ifeng_tech.treasuryyitong.xiaoxituisong.MainActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="发送"
+        android:id="@+id/btn"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ed"/>
+
+    <EditText
+        android:id="@+id/tv_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="count"
+        android:inputType="number"
+        android:textColor="@android:color/black"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/bt_set"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="set"
+        android:textColor="@android:color/black" />
+
+    <Button
+        android:id="@+id/bt_clear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="clear"
+        android:textColor="@android:color/black" />
+
+
+</LinearLayout>

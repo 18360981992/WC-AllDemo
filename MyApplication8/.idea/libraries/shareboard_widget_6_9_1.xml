@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="shareboard-widget-6.9.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/69a0b1cbd0f5f8ca5c2f5a74fdc7dc4c12f3ce1b/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/69a0b1cbd0f5f8ca5c2f5a74fdc7dc4c12f3ce1b/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.umeng.sdk/shareboard-widget/6.9.1/fdcea7db3cff238ea101d8790d581fe96b8c872/shareboard-widget-6.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

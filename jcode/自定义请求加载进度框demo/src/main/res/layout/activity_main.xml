@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.dabao.demo.MainActivity"
+    android:gravity="center"
+    >
+
+    <com.dabao.demo.CircleLoadingView
+        android:id="@+id/circleLoadingView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        />
+
+    <SeekBar
+        android:id="@+id/seekbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:background="#778899" />
+</LinearLayout>

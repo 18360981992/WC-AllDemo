@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.ifeng.demo.MainActivity">
+
+
+    <com.ifeng.demo.CircleProgress
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="20dp"
+        custom:circleColor="#F00"
+        custom:maxRadius="3dp"
+        custom:minRadius="1dp"
+        custom:rotateSpeedInMillis="100"
+        custom:numOfCircles="8"
+        />
+
+</LinearLayout>

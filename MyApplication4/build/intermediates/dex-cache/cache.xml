@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\jun\.android\build-cache\9d3e6cf1ce7a77b62131165e1f05f945ffab8b5e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="G:\Android Demo\MyApplication4\恶心的滑动\build\intermediates\pre-dexed\debug\classes_a9d98ec893995b1d1190fb10f2ddb5d61fb0d919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jun\.android\build-cache\dd50cd91e2fe0f5a4685e12e6c952e8ed02d07b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="480ff7cc5afc5ed3acda6bf661e07822ffcc98db">
+        <dex dex="G:\Android Demo\MyApplication4\恶心的滑动\build\intermediates\pre-dexed\debug\classes_348d7b3e166bd87458f6764a76d4a78695470785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jun\.android\build-cache\15ce73fe630d5920a32d93336db9614341189746\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="G:\Android Demo\MyApplication4\恶心的滑动\build\intermediates\pre-dexed\debug\classes_0bbb99bbca3adb466a7edc69771eb3f9cffdda4d.jar" />
+    </item>
+
+</items>

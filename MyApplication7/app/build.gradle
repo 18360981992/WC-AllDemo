@@ -1,0 +1,55 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    signingConfigs {
+        release {
+            keyAlias 'key0'
+            keyPassword '123456'
+            storeFile file('G:/Android Demo/MyApplication7/app/ass.jks')
+            storePassword '123456'
+        }
+    }
+    compileSdkVersion 26
+    buildToolsVersion "27.0.3"
+    //正式环境
+    def API_RELEASE_HOST = "\"http://release.api.cn\""
+    //测试环境
+    def API_TEST_HOST = "\"http://test.api.cn\""
+    defaultConfig {
+        applicationId "com.ifeng_tech.spotmall.myapplication"
+        minSdkVersion 15
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        buildConfigField("String", "API_HOST", "${API_TEST_HOST}")
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        signingConfig signingConfigs.release
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            buildConfigField "String", "API_HOST", "${API_RELEASE_HOST}"//API Host
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            minifyEnabled false
+            buildConfigField "String", "API_HOST", "${API_TEST_HOST}"//API Host
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:26.+'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    testCompile 'junit:junit:4.12'
+    compile 'com.github.jokermonn:permissions4m:2.1.2-lib'
+    annotationProcessor 'com.github.jokermonn:permissions4m:2.1.2-processor'
+}

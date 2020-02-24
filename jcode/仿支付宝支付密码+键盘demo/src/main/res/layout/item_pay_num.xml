@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/grayDeep"
+    >
+
+    <LinearLayout
+        android:id="@+id/ll_include"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@drawable/pay_item_bg"
+        android:layout_marginTop="6dp"
+        android:layout_marginLeft="6dp"
+        android:paddingBottom="3dp"
+        >
+        <TextView
+            android:id="@+id/tv_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1"
+            android:textColor="#000"
+            android:textSize="19dp"
+            />
+
+        <TextView
+            android:id="@+id/tv_en_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ABC"
+            android:textColor="#000"
+            android:textSize="10dp"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_include_img"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginLeft="6dp"
+        android:gravity="center"
+        android:visibility="gone"
+        >
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:background="@drawable/shopping_cart_normal"
+            />
+    </LinearLayout>
+
+
+</RelativeLayout>

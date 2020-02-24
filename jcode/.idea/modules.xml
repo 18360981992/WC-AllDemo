@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jcode.iml" filepath="$PROJECT_DIR$/jcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listview嵌套gridview布局demo/listview嵌套gridview布局demo.iml" filepath="$PROJECT_DIR$/listview嵌套gridview布局demo/listview嵌套gridview布局demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okgo/okgo.iml" filepath="$PROJECT_DIR$/okgo/okgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okgo的使用demo/okgo的使用demo.iml" filepath="$PROJECT_DIR$/okgo的使用demo/okgo的使用demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofit+mvpdemo/retrofit+mvpdemo.iml" filepath="$PROJECT_DIR$/retrofit+mvpdemo/retrofit+mvpdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/仿支付宝支付密码+键盘demo/仿支付宝支付密码+键盘demo.iml" filepath="$PROJECT_DIR$/仿支付宝支付密码+键盘demo/仿支付宝支付密码+键盘demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/仿支付宝轮播指示器demo/仿支付宝轮播指示器demo.iml" filepath="$PROJECT_DIR$/仿支付宝轮播指示器demo/仿支付宝轮播指示器demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/仿淘宝首页之滑动条demo/仿淘宝首页之滑动条demo.iml" filepath="$PROJECT_DIR$/仿淘宝首页之滑动条demo/仿淘宝首页之滑动条demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/保持scoket的tcp长链接/保持scoket的tcp长链接.iml" filepath="$PROJECT_DIR$/保持scoket的tcp长链接/保持scoket的tcp长链接.iml" />
+      <module fileurl="file://$PROJECT_DIR$/动画上下移动隐藏与显示demo/动画上下移动隐藏与显示demo.iml" filepath="$PROJECT_DIR$/动画上下移动隐藏与显示demo/动画上下移动隐藏与显示demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/可更改刷新头的下拉刷新demo/可更改刷新头的下拉刷新demo.iml" filepath="$PROJECT_DIR$/可更改刷新头的下拉刷新demo/可更改刷新头的下拉刷新demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/微信支付demo/微信支付demo.iml" filepath="$PROJECT_DIR$/微信支付demo/微信支付demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/指纹识别demo/指纹识别demo.iml" filepath="$PROJECT_DIR$/指纹识别demo/指纹识别demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/练习tablayout/练习tablayout.iml" filepath="$PROJECT_DIR$/练习tablayout/练习tablayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/自写日历demo/自写日历demo.iml" filepath="$PROJECT_DIR$/自写日历demo/自写日历demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/自定义圆形进度有值的demo/自定义圆形进度有值的demo.iml" filepath="$PROJECT_DIR$/自定义圆形进度有值的demo/自定义圆形进度有值的demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/自定义状态切换demo/自定义状态切换demo.iml" filepath="$PROJECT_DIR$/自定义状态切换demo/自定义状态切换demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/自定义请求加载进度框demo/自定义请求加载进度框demo.iml" filepath="$PROJECT_DIR$/自定义请求加载进度框demo/自定义请求加载进度框demo.iml" />
+    </modules>
+  </component>
+</project>

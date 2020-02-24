@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ifeng_tech.spotmall.tixing.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="20dp"
+        android:id="@+id/testTextView"/>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp"
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="51dp"
+        ></android.support.v4.view.ViewPager>
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:background="@drawable/ti_you"
+        android:id="@+id/img"
+        android:layout_centerVertical="true"
+        />
+</RelativeLayout>

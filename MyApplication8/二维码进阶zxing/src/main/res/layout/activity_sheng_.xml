@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.ifeng_tech.spotmall.zxing.Sheng_Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/putong"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="普通二维码"/>
+        <Button
+            android:id="@+id/daitu"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="带图二维码"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/sheng_img"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"/>
+
+    <Button
+        android:id="@+id/sheng_bao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="保存本地相册"
+        android:layout_margin="15dp"/>
+
+</LinearLayout>

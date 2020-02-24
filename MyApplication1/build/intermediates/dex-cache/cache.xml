@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\Android Demo\MyApplication1\极光推送\libs\jpush-android-3.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="437ebf84ca874a27d0c0007e628cddc5121a285e">
+        <dex dex="G:\Android Demo\MyApplication1\极光推送\build\intermediates\pre-dexed\debug\jpush-android-3.1.3_5449ff901f44bcc4d843d6ce2662d21aa9d856d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Demo\MyApplication1\极光推送\libs\jcore-android-1.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d2cabf100b12e13cc22b8361a93f854103bb3cca">
+        <dex dex="G:\Android Demo\MyApplication1\极光推送\build\intermediates\pre-dexed\debug\jcore-android-1.2.1_89fc6ea7d4159e47ef798f17c2af01af2a0ed948.jar" />
+    </item>
+
+</items>

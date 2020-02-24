@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FinalHttp的使用/FinalHttp的使用.iml" filepath="$PROJECT_DIR$/FinalHttp的使用/FinalHttp的使用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication4.iml" filepath="$PROJECT_DIR$/MyApplication4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2/app2.iml" filepath="$PROJECT_DIR$/app2/app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/librarys/librarys.iml" filepath="$PROJECT_DIR$/librarys/librarys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplejsjavabridgeLib/simplejsjavabridgeLib.iml" filepath="$PROJECT_DIR$/simplejsjavabridgeLib/simplejsjavabridgeLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webview调用/webview调用.iml" filepath="$PROJECT_DIR$/webview调用/webview调用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/恶心的滑动/恶心的滑动.iml" filepath="$PROJECT_DIR$/恶心的滑动/恶心的滑动.iml" />
+      <module fileurl="file://$PROJECT_DIR$/折线图/折线图.iml" filepath="$PROJECT_DIR$/折线图/折线图.iml" />
+    </modules>
+  </component>
+</project>

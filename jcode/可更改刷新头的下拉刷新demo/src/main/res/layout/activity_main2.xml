@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dabao.demo.dierzhong.Main2Activity">
+
+    <!-- 刷新加载控件直接包裹再listview的外部，这就是为什么能运用所有的view上的原因 -->
+    <!-- 我使用的是自定义的头部和尾部 -->
+    <cn.appsdream.nestrefresh.normalstyle.NestRefreshLayout
+        android:id="@+id/freshLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:headerNestLayout="@layout/layout_header"
+        app:footerNestLayout="@layout/layout_footer"
+        >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <!---->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:background="#00f000"
+                >
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorAccent"
+                    android:gravity="center"
+                    android:text="Target"
+                    android:textSize="30sp"
+                    />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/one_piece"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorAccent"
+                    android:gravity="center"
+                    android:text="Target"
+                    android:textSize="30sp"
+                    />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/one_piece"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorAccent"
+                    android:gravity="center"
+                    android:text="Target"
+                    android:textSize="30sp"
+                    />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/one_piece"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorAccent"
+                    android:gravity="center"
+                    android:text="Target"
+                    android:textSize="30sp"
+                    />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/one_piece"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorAccent"
+                    android:gravity="center"
+                    android:text="Target"
+                    android:textSize="30sp"
+                    />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/one_piece"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorAccent"
+                    android:gravity="center"
+                    android:text="Target"
+                    android:textSize="30sp"
+                    />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/one_piece"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorAccent"
+                    android:gravity="center"
+                    android:text="Target"
+                    android:textSize="30sp"
+                    />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/one_piece"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorAccent"
+                    android:gravity="center"
+                    android:text="Target"
+                    android:textSize="30sp"
+                    />
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/one_piece"/>
+
+            </LinearLayout>
+        </ScrollView>
+
+
+
+    </cn.appsdream.nestrefresh.normalstyle.NestRefreshLayout>
+
+</LinearLayout>
